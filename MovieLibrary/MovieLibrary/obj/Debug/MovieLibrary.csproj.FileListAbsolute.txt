@@ -1,0 +1,7 @@
+C:\Users\joshm\OneDrive\Documents OneDrive\.NETFramework\MovieLibrary\MovieLibrary\bin\Debug\MovieLibrary.exe.config
+C:\Users\joshm\OneDrive\Documents OneDrive\.NETFramework\MovieLibrary\MovieLibrary\bin\Debug\MovieLibrary.exe
+C:\Users\joshm\OneDrive\Documents OneDrive\.NETFramework\MovieLibrary\MovieLibrary\bin\Debug\MovieLibrary.pdb
+C:\Users\joshm\OneDrive\Documents OneDrive\.NETFramework\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.csprojAssemblyReference.cache
+C:\Users\joshm\OneDrive\Documents OneDrive\.NETFramework\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.csproj.CoreCompileInputs.cache
+C:\Users\joshm\OneDrive\Documents OneDrive\.NETFramework\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.exe
+C:\Users\joshm\OneDrive\Documents OneDrive\.NETFramework\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.pdb
