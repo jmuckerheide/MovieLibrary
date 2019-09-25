@@ -91,7 +91,7 @@ namespace MovieLibrary
                         // user inputs movie name
                         string movieName = Console.ReadLine().ToLower();
                    
-                        List<string> Movies = movieName;
+                        List<string> Movies = MovieName;
                         // check for duplicate movies
                         if (Movies.Contains(movieName))
                         {
@@ -109,7 +109,8 @@ namespace MovieLibrary
                             //add user input in field 
                             string genre = Console.ReadLine();
                             // Add user input to genres list
-                            genres.Add(genre);     
+                            genres.Add(genre); 
+                            Console.WriteLine("Movie added: " + movieName);
                         }
                     }
                     else if (resp == "2")
